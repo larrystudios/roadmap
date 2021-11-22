@@ -1,2 +1,2 @@
 # `Roadmap` Repository
-Larry Studios Roadmap
+This repository is for storing Larry Studios' Roadmap.
